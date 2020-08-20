@@ -12,7 +12,7 @@
     "node": "10.x || 11.x || 12.x || 13.x || 14.x"
   },
   "dependencies": {
-    "babel-core": "6.26.0",
+    "babel-core": "6.26.3",
     "escodegen": "1.9.1",
     "esprima": "4.0.1",
     "estraverse": "4.2.0",
