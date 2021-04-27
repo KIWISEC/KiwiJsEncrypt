@@ -20,6 +20,6 @@
     "babel-cli": "6.26.0",
     "babel-preset-es2015": "6.24.1",
     "babel-preset-react": "6.24.1",
-    "javascript-obfuscator": "0.28.5"
+    "javascript-obfuscator": "2.10.2"
   }
 }
